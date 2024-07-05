@@ -1,2 +1,2 @@
 # projetoLivro
-Trabalho de divulgação de um livro
+Website de divulgação de um livro
